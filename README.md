@@ -12,17 +12,17 @@
 
 - Python 程式設計
 
-    - [建立開發環境](dev_env.slides.html)
-    - [變數型別](variable_types.slides.html)
-    - [流程控制](control_statement.slides.html)
-    - [函數](function.slides.html)
-    - [資料結構：list、tuple](data_structures_list_tuple.slides.html)
-    - [for 迴圈](for_loop.slides.html)
-    - [資料結構：dict、set](data_structures_dict_set.slides.html)
-    - [while 迴圈](while_loop.slides.html)
-    - [自訂函數](function_adv.slides.html)
-    - [類別](class.slides.html)
-    - [模組](modules.slides.html)
+    - [建立開發環境](http://yaojenkuo.io/py_prg/dev_env.slides.html)
+    - [變數型別](http://yaojenkuo.io/py_prg/variable_types.slides.html)
+    - [流程控制](http://yaojenkuo.io/py_prg/control_statement.slides.html)
+    - [函數](http://yaojenkuo.io/py_prg/function.slides.html)
+    - [資料結構：list、tuple](http://yaojenkuo.io/py_prg/data_structures_list_tuple.slides.html)
+    - [for 迴圈](http://yaojenkuo.io/py_prg/for_loop.slides.html)
+    - [資料結構：dict、set](http://yaojenkuo.io/py_prg/data_structures_dict_set.slides.html)
+    - [while 迴圈](http://yaojenkuo.io/py_prg/while_loop.slides.html)
+    - [自訂函數](http://yaojenkuo.io/py_prg/function_adv.slides.html)
+    - [類別](https://yaojenkuo.github.io/py_prg/class.slides.html)
+    - [模組](https://yaojenkuo.github.io/py_prg/modules.slides.html)
 
 - 資料分析
     - [網站爬蟲入門](01-Web-Scraping-101.slides.html)
