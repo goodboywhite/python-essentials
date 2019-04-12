@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 輕鬆學習 Python | 成為初級資料分析師
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/python-essentials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 上課互動工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<https://www.sli.do/>
 
-### Markdown
+### 共同筆記
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<https://colab.research.google.com/drive/1LnogGQn37h2-OuubJgjjHlPoxTwK1fAi>
 
-```markdown
-Syntax highlighted code block
+### 投影片
 
-# Header 1
-## Header 2
-### Header 3
+- Python 程式設計
 
-- Bulleted
-- List
+    - [建立開發環境](dev_env.slides.html)
+    - [變數型別](variable_types.slides.html)
+    - [流程控制](control_statement.slides.html)
+    - [函數](function.slides.html)
+    - [資料結構：list、tuple](data_structures_list_tuple.slides.html)
+    - [for 迴圈](for_loop.slides.html)
+    - [資料結構：dict、set](data_structures_dict_set.slides.html)
+    - [while 迴圈](while_loop.slides.html)
+    - [自訂函數](function_adv.slides.html)
+    - [類別](class.slides.html)
+    - [模組](modules.slides.html)
 
-1. Numbered
-2. List
+- 資料分析
+    - [網站爬蟲入門](01-Web-Scraping-101.slides.html)
+    - [NumPy 入門](02-Numpy-101.slides.html)
+    - [Pandas 入門](03-Pandas-101.slides.html)
+    - [Matplotlib 入門](04-Matplotlib-Pyplot-101.slides.html)
 
-**Bold** and _Italic_ and `Code` text
+### 延伸閱讀
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/python-essentials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [輕鬆學習 Python](https://www.datainpoint.com/python-essentials/)
+- [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
+- [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
+- [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
+- [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
