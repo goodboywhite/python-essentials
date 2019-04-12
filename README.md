@@ -3,7 +3,7 @@
 ### 上課時間與日期
 
 - 09:00 - 12:00
-- 4/12（五）、4/26（五）、5/3（五）、5/10（五）、5/17（五）、5/24（五）、5/31（五）、6/14（五），共8週
+- 4/12（五）、4/26（五）、5/3（五）、5/10（五）、5/17（五）、5/24（五）、5/31（五）、6/14（五），共 8 週
 
 ### 上課互動工具
 
@@ -27,7 +27,7 @@
     - [while 迴圈](http://yaojenkuo.io/py_prg/while_loop.slides.html)
     - [自訂函數](http://yaojenkuo.io/py_prg/function_adv.slides.html)
     - [類別](https://yaojenkuo.github.io/py_prg/class.slides.html)
-    - [模組](https://yaojenkuo.github.io/py_prg/modules.slides.html)
+    - [模組](modules.slides.html)
 
 - 資料分析
     - [網站爬蟲入門](01-Web-Scraping-101.slides.html)
