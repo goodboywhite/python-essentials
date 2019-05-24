@@ -3,7 +3,7 @@
 ### 上課時間與日期
 
 - 09:00 - 12:00
-- <del>4/12（五）</del>、<del>4/26（五）</del>、5/3（五）、5/10（五）、5/17（五）、5/24（五）、5/31（五）、6/14（五），共 8 週
+- <del>4/12（五）</del>、<del>4/26（五）</del>、<del>5/3（五）</del>、<del>5/10（五）</del>、<del>5/17（五）</del>、5/24（五）、5/31（五）、6/14（五），共 8 週
 
 ### 上課互動工具
 
@@ -35,8 +35,9 @@
 
 ### 延伸閱讀
 
+- [R 語言使用者的 Python 學習筆記](https://ithelp.ithome.com.tw/ironman/articles/1077)
+- [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
+- [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
 - [輕鬆學習 Python](https://www.datainpoint.com/python-essentials/)
 - [進擊的資料科學](https://www.datainpoint.com/data-science-in-action/)
 - [DataCamp](https://www.datacamp.com/courses/tech:python?tap_a=5644-dce66f&tap_s=194899-1fb421)
-- [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
-- [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
