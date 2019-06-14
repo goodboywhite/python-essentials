@@ -33,7 +33,7 @@
 
 ### 延伸閱讀
 
-- [成為初級資料分析師 | 輕鬆學習 Python 程式設計](https://www.udemy.com/intro-to-python-ds-1/?couponCode=SOOCHOW)
+- [成為初級資料分析師 - Python 程式設計](https://www.udemy.com/intro-to-python-ds-1/?couponCode=SOOCHOW)
 - [R 語言使用者的 Python 學習筆記](https://ithelp.ithome.com.tw/ironman/articles/1077)
 - [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
 - [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
