@@ -24,7 +24,7 @@
     - [流程控制：for 迴圈](https://yaojenkuo.io/py_prg/06-control-flow-for.slides.html#/)
     - [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions.slides.html#/)
     - [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html#/)
-    - [程式封裝：自訂模組/套件](https://yaojenkuo.github.io/py_prg/modules.slides.html)
+    - [程式封裝：自訂模組/套件](https://yaojenkuo.github.io/py_prg/09-code-packaging-modules-and-libraries.slides.html#/)
 - 資料分析
     - [網站爬蟲入門](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html#/)
     - [NumPy 入門](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
