@@ -3,7 +3,7 @@
 ### 上課時間與日期
 
 - 09:00 - 12:00
-- <del>4/12（五）</del>、<del>4/26（五）</del>、<del>5/3（五）</del>、<del>5/10（五）</del>、<del>5/17（五）</del>、5/24（五）、5/31（五）、6/14（五），共 8 週
+- <del>4/12（五）</del>、<del>4/26（五）</del>、<del>5/3（五）</del>、<del>5/10（五）</del>、<del>5/17（五）</del>、<del>5/24（五）</del>、<del>5/31（五）</del>、6/14（五），共 8 週
 
 ### 上課互動工具
 
@@ -16,25 +16,24 @@
 ### 投影片
 
 - Python 程式設計
-    - [建立開發環境](dev_env.slides.html)
-    - [變數型別](variable_types.slides.html)
-    - [流程控制](control_statement.slides.html)
-    - [while 迴圈](while_loop.slides.html)
-    - [函數](function.slides.html)
-    - [資料結構：list、tuple](data_structures_list_tuple.slides.html)
-    - [for 迴圈](for_loop.slides.html)
-    - [資料結構：dict、set](data_structures_dict_set.slides.html)
-    - [自訂函數](function_adv.slides.html)
-    - [類別](class.slides.html)
-    - [模組](modules.slides.html)
+    - [起步走](https://yaojenkuo.io/py_prg/01-getting-started.slides.html#/)
+    - [資料型態](https://yaojenkuo.io/py_prg/02-data-types.slides.html#/)
+    - [流程控制：條件判斷](https://yaojenkuo.io/py_prg/03-control-flow-conditionals.slides.html#/)
+    - [流程控制：while 迴圈](https://yaojenkuo.io/py_prg/04-control-flow-while.slides.html#/)
+    - [資料結構](https://yaojenkuo.io/py_prg/05-data-structures.slides.html#/)
+    - [流程控制：for 迴圈](https://yaojenkuo.io/py_prg/06-control-flow-for.slides.html#/)
+    - [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions.slides.html#/)
+    - [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html#/)
+    - [程式封裝：自訂模組/套件](https://yaojenkuo.github.io/py_prg/modules.slides.html)
 - 資料分析
-    - [網站爬蟲入門](01-Web-Scraping-101.slides.html)
-    - [NumPy 入門](02-Numpy-101.slides.html)
-    - [Pandas 入門](03-Pandas-101.slides.html)
-    - [Matplotlib 入門](04-Matplotlib-Pyplot-101.slides.html)
+    - [網站爬蟲入門](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html#/)
+    - [NumPy 入門](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
+    - [Pandas 入門](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
+    - [Matplotlib 入門](https://yaojenkuo.io/python_4_ds/06-matplotlib-pyplot-101.slides.html)
 
 ### 延伸閱讀
 
+- [成為初級資料分析師 | 輕鬆學習 Python 程式設計](https://www.udemy.com/intro-to-python-ds-1/?couponCode=SOOCHOW)
 - [R 語言使用者的 Python 學習筆記](https://ithelp.ithome.com.tw/ironman/articles/1077)
 - [A Whirlwind Tour of Python](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/)
 - [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
